@@ -762,6 +762,10 @@ ros = await Lexxy.prepareMessageFromContent(from,{
 "rowId": `${prefix}randommenu`
 },
 {
+"title": "Group Menu 👥️",
+"rowId": `${prefix}randommenu`
+},
+{
 "title": "Asupan Menu 🌐️",
 "rowId": `${prefix}asupanmenu`
 },
